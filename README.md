@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmihail0
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and javascript
 - 📫 How to reach me: mmihail(discord)
 - ⚡ Fun fact: no fun facts
 
