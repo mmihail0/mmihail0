@@ -6,7 +6,7 @@
 - Socials:
   - → [MyAnimeList](https://myanimelist.net/profile/nellielfan)
   - → [Tiktok](https://www.tiktok.com/@2lplasticwaterbottle)
-  - → [Instagram](https://www.instagram.com/mmihail_0)
+  - → [Spotify](https://open.spotify.com/user/31p37iu6y4q4j6cpi6wmqdmm4fti)
 
 
 <!---
