@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmihail0
 - 👀 I’m interested in anything and everything
 - 📚Currently learning: Python, Javascript, CSS, HTML
-- 📫 How to reach me: mmihail(discord) or socials
+- 📫 How to reach me: mmihail(discord) or socials below
 - 🃏Socials:
   - → [MyAnimeList](https://myanimelist.net/profile/nellielfan)
   - → [Tiktok](https://www.tiktok.com/@2lplasticwaterbottle)
