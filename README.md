@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmihail0
-- 👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀
+- 👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀👀
 - 📚Currently learning: Python, Javascript, CSS, HTML, Kotlin
 
 <!---
