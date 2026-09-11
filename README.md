@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmihail0
 - 👀👀👀FAANG👀👀👀👀hire👀👀👀👀me👀👀👀👀
-- 📚Currently learning: Python, Javascript, CSS, HTML, Lua, Kotlin
+- 📚Currently learning: Python, Javascript, CSS, HTML, Lua, Kotlin, C#
 
 <!---
 mmihail0/mmihail0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
